@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @jusL98
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hello everyone! 👋 I'm Justin Lee.
+🎓 Grade 10 Student <br>
+🏫 St. Augustine Catholic High School <br>
+📍 Ontario, Canada 
 
-<!---
-jusL98/jusL98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌟 About Me  
+- 💻 **Interests**: Technology, Web Development, App Development, Game Design, Innovation
+- 🏒 **Hobbies**: Hockey, Reading, Video Games, Cooking
+- 💡 **Passionate About**: Learning, Making A Positive Impact, Volunteer Work
+- 🌱 **Currently**: Learning programming by refining Python knowledge
+<br>
+
+## 🚀 Languages and Tools  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<div/>
+
+
+## 📫 Contact Me  
+justin.matthew.lee.18@gmail.com
+
