@@ -8,6 +8,7 @@
 - 🏒 **Hobbies**: Hockey, Reading, Video Games, Cooking
 - 💡 **Passionate About**: Learning, Making A Positive Impact, Volunteer Work
 - 🌱 **Currently**: Learning programming by refining Python knowledge
+- 🕒 **SOON**: Personal Portfolio Website, Resume, First Project
 <br>
 
 ## 🚀 Languages and Tools  
