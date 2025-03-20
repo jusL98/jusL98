@@ -7,7 +7,7 @@
 - 💻 **Interests**: Technology, Web Development, App Development, Game Design, Innovation
 - 🏒 **Hobbies**: Hockey, Reading, Video Games, Cooking
 - 💡 **Passionate About**: Learning, Making A Positive Impact, Volunteer Work
-- 🌱 **Currently**: Learning programming by refining Python knowledge, Working On A Startup (Clarus) and Game Development Studio (X Dev)
+- 🌱 **Currently**: Learning Java, Working On A Startup (Clarus) and Game Development Studio (X Dev)
 - 🕒 **SOON**: Personal Portfolio Website, Resume, First Project
 <br>
 
