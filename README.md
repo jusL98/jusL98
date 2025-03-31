@@ -1,4 +1,4 @@
-# Hello everyone! 👋 I'm Justin Lee.
+# Hey 👋 I'm Justin
 🎓 Grade 10 Student <br>
 🏫 St. Augustine Catholic High School <br>
 📍 Ontario, Canada 
