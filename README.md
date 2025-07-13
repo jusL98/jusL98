@@ -27,7 +27,7 @@
 <hr/>
 
 ### Work
--  **Cofounder <a href="https://clarusapp.org/">@Clarus</a>** — AI tool to fact-check information with reliable scientific research to combat misinformation and bias
+-  **Cofounder <a href="https://github.com/jusL98/clarus">@Clarus</a>** — AI tool to fact-check information with reliable scientific research to combat misinformation and bias
 -  **Cofounder <a href="https://xdevstudio.com/">@xdev</a>** — minimalist, free hypercasual game development studio
 
 ### Recently
