@@ -27,13 +27,13 @@
 <hr/>
 
 ### Work
--  **Cofounder <a href="https://github.com/jusL98/clarus">@Clarus</a>** — AI tool to fact-check information with reliable scientific research to combat misinformation and bias
+-  **Cocreator <a href="https://github.com/jusL98/clarus">@Clarus</a>** — AI tool to fact-check information with reliable scientific research to combat misinformation and bias
 -  **Cofounder <a href="https://xdevstudio.com/">@xdev</a>** — minimalist, free hypercasual game development studio
 
 ### Recently
-- **<a href="https://clarusapp.org/">@Clarus</a>** supported by the Microsoft for Startups program
-- Learning Java
-- Developing projects
+- Learning C
+- Participating in hackathons
+- Creating exciting projects
 
 ### Technologies
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
