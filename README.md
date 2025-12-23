@@ -16,7 +16,7 @@
 
 <div align="center">
   
-  **` 🎓 Grade 11 @ STACHS | 📍 Ontario, Canada | 💡 Dedicated to Learning `**
+  **` 🎓 Grade 11 @ SACHS | 📍 Ontario, Canada | 💡 Dedicated to Learning `**
 
 </div>
 
