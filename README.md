@@ -49,6 +49,7 @@
 ![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
+[MD BADGES]: # (https://github.com/Ileriayo/markdown-badges)
 <hr/>
 
 <h3 align="center">
