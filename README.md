@@ -16,7 +16,7 @@
 
 <div align="center">
   
-  **` 🎓 Grade 11 @ SACHS | 📍 Ontario, Canada | 💡 Dedicated to Learning `**
+  **` 🎓 Grade 11 | 📍 Ontario, Canada | 💡 Dedicated to Learning `**
 
 </div>
 
@@ -27,13 +27,10 @@
 <hr/>
 
 ### Work
--  **Cocreator <a href="https://github.com/jusL98/clarus">@Clarus</a>** — AI tool to fact-check information with reliable scientific research to combat misinformation and bias
 -  **Cofounder <a href="https://xdevstudio.com/">@xdev</a>** — minimalist, free hypercasual game development studio
 
 ### Recently
-- Learning C
-- Participating in hackathons
-- Creating exciting projects
+- Learning
 
 ### Technologies
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
